@@ -1,6 +1,6 @@
 # coding=utf-8
-# Coded By: Deray
-# instagram: reyy05_
+# Coded By: Fajar
+# instagram: Fajar.n.i
 
 import requests,os,bs4,sys
 
